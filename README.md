@@ -1,3 +1,3 @@
 # Distributed Power Control Method for Ultra-dense D2D Communications in 5G/6G Networks
 ## Overview
-In this project, we trained a neural operator to optimize power control for ultra-dense D2D communication in 5G/6G networks. We then developed a multithreaded C++ inference application backed by the neural operator. Please See the <a href="#">report</a> for details.
+In this project, we trained a <a href="https://github.com/gengshuoliu/EE595_MFG/blob/main/model_cat_horizon_FNO01.zip">neural operator</a> to optimize power control for ultra-dense D2D communication in 5G/6G networks. For training and experiment details, see <a href="https://github.com/gengshuoliu/EE595_MFG/blob/main/kalil_GS01_FNO.ipynb">this notebook</a>. We then developed a <a href="https://github.com/gengshuoliu/EE595_MFG/tree/main/ee595-project">multithreaded C++ inference application</a> backed by the neural operator. Please see the <a href="#">report</a> for details.
