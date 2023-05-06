@@ -1,0 +1,3 @@
+/usr/src/app/ee595-project/debug/CMakeFiles/rebuild_cache.dir
+/usr/src/app/ee595-project/debug/CMakeFiles/edit_cache.dir
+/usr/src/app/ee595-project/debug/CMakeFiles/ee595-project.dir
